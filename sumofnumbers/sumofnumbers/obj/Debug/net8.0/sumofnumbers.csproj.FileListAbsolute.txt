@@ -1,0 +1,14 @@
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\bin\Debug\net8.0\sumofnumbers.exe
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\bin\Debug\net8.0\sumofnumbers.deps.json
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\bin\Debug\net8.0\sumofnumbers.runtimeconfig.json
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\bin\Debug\net8.0\sumofnumbers.dll
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\bin\Debug\net8.0\sumofnumbers.pdb
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\sumofnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\sumofnumbers.AssemblyInfoInputs.cache
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\sumofnumbers.AssemblyInfo.cs
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\sumofnumbers.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\sumofnumbers.dll
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\refint\sumofnumbers.dll
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\sumofnumbers.pdb
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\sumofnumbers.genruntimeconfig.cache
+C:\Users\unkno\source\repos\sumofnumbers\sumofnumbers\obj\Debug\net8.0\ref\sumofnumbers.dll
